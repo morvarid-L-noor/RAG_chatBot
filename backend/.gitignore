@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+chroma_db/
+*.db
+.env
+/tmp/
+*.pdf
+.DS_Store
+
